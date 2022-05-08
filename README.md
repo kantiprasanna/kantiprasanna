@@ -1,67 +1,45 @@
+Hi 👋 My name is Kantimahanti Sai Prasanna Kumar
+================================================
 
-### Hello!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+Full Stack Developer
+--------------------
 
+I am a competitive coder and a full stack developer. I use Springboot for backend development, and use frameworks Angular js, and React js. I have knowledge on Machine learning and Data science.
 
-<a href="https://www.linkedin.com/in/kantimahanti-sai-prasanna-kumar-10639a165//"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="30" height="30"></a>
-<a href="mailto:kantiprasanna3@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/646/646187.svg" width="30" height="30"></a>
-<br>
+* 🌍  I'm based in India
+* ✉️  You can contact me at [kantiprasanna3@gmail.com](mailto:kantiprasanna3@gmail.com)
+* 🧠  I'm learning React JS
 
+<a href="https://www.twitter.com/kantiprasanna" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/kantiprasanna?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/kantiprasanna" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/kantiprasanna?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-#### 🤔 Who Am I!?
+### Skills
 
-- 🏫 I am a student pursuing a Bachelor’s degree in Computer Sciences from the Gayatri Vidya Parishad College of Engineering, Visakhapatnam (A.P.) [2021].
-- ⚡️ My expertise primarily revolves around Machine Learning, Data Science, JavaScript, Angular, Web Development.
-- 🐱‍💻 I am very active in Competitive Programming.
-
-[![Codechef](https://cp-logo.vercel.app/codechef/sai919)](https://www.codechef.com/users/sai919)&nbsp;&nbsp;&nbsp;
-#### 👨🏻‍💻 Mostly Used Languages, Frameworks :
-
-<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">&nbsp;&nbsp;
-<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">&nbsp;&nbsp;
-<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;&nbsp;
-<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;&nbsp;
-<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">&nbsp;&nbsp;
-<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;&nbsp;
-<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;&nbsp;
-<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">&nbsp;&nbsp;
-<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
-
-
-#### 👨🏻‍💻 Familiar With :
-
-
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">&nbsp;&nbsp;
-
-<img src="https://github-profile-trophy.vercel.app/?username=kantiprasanna&theme=onedark&column=3&margin-w=15&margin-h=15">
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kantiprasanna&theme=tokyonight&count_private=true)
-
-![Prasanna's github stats](https://github-readme-stats.vercel.app/api?username=kantiprasanna&show_icons=true&hide_border=true&theme=tokyonight&count_private=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kantiprasanna&layout=compact&theme=tokyonight)
-
-![Prasanna's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kantiprasanna)
-![Prasanna's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kantiprasanna&layout=compact)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kantiprasanna&theme=github&count_private=true)  
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+</p>
 
 
-<p align="center">
-<a href="https://github.com/kantiprasanna?tab=followers">
-    <img src="https://img.shields.io/github/followers/kantiprasanna?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="https://twitter.com/intent/follow?screen_name=kantiprasanna">
-    <img src="https://img.shields.io/twitter/follow/kantiprasanna?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-    
- </p>
- 
+### Socials
 
+<p align="left"> <a href="https://www.github.com/kantiprasanna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kantimahanti-sai-prasanna-kumar-10639a165/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/kantiprasanna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<details>
-<summary>Detailed Summary</summary>
-<br>
-    
-![Metrics](https://metrics.lecoq.io/kantiprasanna?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta&config.twemoji=true)
-    
-</details>
+### Badges
+
+<a href="https://github.com/kantiprasanna" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kantiprasanna&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
